@@ -46,6 +46,5 @@ Feel free to customize the project structure, files, and scripts to suit your sp
 ## Contributing
 Contributions are welcome! If you have suggestions, enhancements, or bug fixes, please open an issue or submit a pull request.
 
-## Contributing
-License
+## License
 This project is licensed under the MIT License.
