@@ -1,6 +1,6 @@
 {
   "name": "ts-microservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A project initializer for TS microservices.",
   "homepage": "https://www.npmjs.com/package/ts-microservice",
   "repository": {
