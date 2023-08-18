@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A project initializer for TS microservices.",
   "homepage": "https://www.npmjs.com/package/ts-microservice",
+  "repository": {
+    "type": "git",
+    "url": "https://www.npmjs.com/package/ts-microservice.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
