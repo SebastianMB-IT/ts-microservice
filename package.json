@@ -1,6 +1,6 @@
 {
   "name": "ts-microservice",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A project initializer for TS microservices.",
   "homepage": "https://github.com/SebastianMB-IT/ts-microservice",
   "repository": {
